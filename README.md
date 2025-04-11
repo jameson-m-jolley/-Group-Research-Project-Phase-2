@@ -2,4 +2,6 @@
 
 # installing
 
-    ##<tab><tab>code/text here
+    ##
+        npm install
+        npm start
