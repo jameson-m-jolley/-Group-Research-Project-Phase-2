@@ -1,0 +1,26 @@
+{
+  "name": "group-proj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.12.0",
+    "graphql": "^16.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameson-m-jolley/-Group-Research-Project-Phase-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jameson-m-jolley/-Group-Research-Project-Phase-2/issues"
+  },
+  "homepage": "https://github.com/jameson-m-jolley/-Group-Research-Project-Phase-2#readme"
+}
