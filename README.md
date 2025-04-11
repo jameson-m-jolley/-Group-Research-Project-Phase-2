@@ -2,5 +2,4 @@
 
 # installing
 
-    to install run 
     ##<tab><tab>code/text here
