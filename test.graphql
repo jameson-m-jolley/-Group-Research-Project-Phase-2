@@ -1,0 +1,10 @@
+query  {
+  friendsofuser(id: 1) {
+    id
+    username
+    friends {
+      id
+      username
+    }
+  }
+}
