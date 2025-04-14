@@ -6,7 +6,7 @@ import mysql from 'mysql2/promise';
 const pool = mysql.createPool({
 	host: 'localhost',
 	user: 'root',
-	password: 'Simbrodain123#',   // enter your local password
+	password: '',   // enter your local password
 	database: 'your_social_network',
 	waitForConnections: true,
 	connectionLimit: 10,
