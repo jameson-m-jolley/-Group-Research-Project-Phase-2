@@ -9,3 +9,4 @@ WHERE u.id IN (
     JOIN Friendships f2 ON f1.friend_id = f2.user_id
     WHERE f1.user_id = 1
 );
+
